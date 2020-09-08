@@ -447,7 +447,6 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 2
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
-#EXTM3U
 #EXTINF:-1,#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",champion 1
 http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/champion1_rattus/playlist.m3u8
 
