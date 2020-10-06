@@ -1,7 +1,264 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="INTRO",Berdoa Dulu Biar Lancar
-http://www.audioislam.com/audio/quran/recitation/al-afaasee/surah_al_fatihah.mp3
+####### Tilawah Al-Qur'an #######
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN", [001] Surah Alfatihah (Pembukaan)
+https://archive.org/download/MurotalMR/001.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN", [002] Surah Al-Baqarah (Lembu Betina)
+https://archive.org/download/MurotalMR/002.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN", [003] Surah Ali 'Imran (Keluarga Imran)
+https://archive.org/download/MurotalMR/003.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN", [004] Surah An-Nisaa' (Wanita)
+https://archive.org/download/MurotalMR/004.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN", [006] Surah Al-An'aam (Binatang Ternakan)
+https://archive.org/download/MurotalMR/006.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN", [007] Surah Al-A'raaf (Tempat Tertinggi)
+https://archive.org/download/MurotalMR/007.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN", [008] Surah Al-Anfaal (Rampasan Perang)
+https://archive.org/download/MurotalMR/008.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN", [009] Surah At-Taubah (Pengampunan)
+https://archive.org/download/MurotalMR/009.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN", [010] Surah Yunus (Nabi Yunus a.s.)
+https://archive.org/download/MurotalMR/010.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN", [011] Surah Hud (Nabi Hud a.s.)
+https://archive.org/download/MurotalMR/011.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN", [012] Surah Yusuf (Nabi Yusuf a.s.)
+https://archive.org/download/MurotalMR/012.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN", [013] Surah Ar-Ra'd (Guruh)
+https://archive.org/download/MurotalMR/013.mp3
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[001] Surah Alfatihah (Pembukaan)
+https://archive.org/download/MurotalMR/001.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[002] Surah Al-Baqarah (Lembu Betina)
+https://archive.org/download/MurotalMR/002.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[003] Surah Ali 'Imran (Keluarga Imran)
+https://archive.org/download/MurotalMR/003.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[004] Surah An-Nisaa' (Wanita)
+https://archive.org/download/MurotalMR/004.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[005] Surah Al-Maa'idah (Hidangan)
+https://archive.org/download/MurotalMR/005.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[006] Surah Al-An'aam (Binatang Ternakan)
+https://archive.org/download/MurotalMR/006.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[007] Surah Al-A'raaf (Tempat Tertinggi)
+https://archive.org/download/MurotalMR/007.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[008] Surah Al-Anfaal (Rampasan Perang)
+https://archive.org/download/MurotalMR/008.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[009] Surah At-Taubah (Pengampunan)
+https://archive.org/download/MurotalMR/009.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[010] Surah Yunus (Nabi Yunus a.s.)
+https://archive.org/download/MurotalMR/010.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[011] Surah Hud (Nabi Hud a.s.)
+https://archive.org/download/MurotalMR/011.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[012] Surah Yusuf (Nabi Yusuf a.s.)
+https://archive.org/download/MurotalMR/012.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[013] Surah Ar-Ra'd (Guruh)
+https://archive.org/download/MurotalMR/013.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[014] Surah Ibrahim (Nabi Ibrahim a.s.)
+https://archive.org/download/MurotalMR/014.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[015] Surah Al-Hijr (Kawasan Berbatu)
+https://archive.org/download/MurotalMR/015.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[016] Surah An-Nahl (Lebah)
+https://archive.org/download/MurotalMR/016.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[017] Surah Al-Israa' (Perjalanan Malam)
+https://archive.org/download/MurotalMR/017.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[018] Surah Al-Kahfi (Gua)
+https://archive.org/download/MurotalMR/018.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[019] Surah Maryam (Siti Maryam)
+https://archive.org/download/MurotalMR/019.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[020] Surah Taahaa
+https://archive.org/download/MurotalMR/020.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[021] Surah Al-Anbiyaa' (Para Nabi)
+https://archive.org/download/MurotalMR/021.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[022] Surah Al-Hajj (Haji)
+https://archive.org/download/MurotalMR/022.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[023] Surah Al-Mu'minun (Golongan yang Beriman)
+https://archive.org/download/MurotalMR/023.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[024] Surah An-Nuur (Cahaya)
+https://archive.org/download/MurotalMR/024.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[025] Surah Al-Furqaan (Pembeza Kebenaran dan Kebatilan)
+https://archive.org/download/MurotalMR/025.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[026] Surah Asy-Syu'araa (Para Penyair)
+https://archive.org/download/MurotalMR/026.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[027] Surah An-Naml (Semut)
+https://archive.org/download/MurotalMR/027.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[028] Surah Al-Qasas (Cerita-cerita)
+https://archive.org/download/MurotalMR/028.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[029] Surah Al-'Ankabut (Labah-labah)
+https://archive.org/download/MurotalMR/029.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[030] Surah Ar-Rum (Bangsa Rom)
+https://archive.org/download/MurotalMR/030.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[031] Surah Luqman (Luqman)
+https://archive.org/download/MurotalMR/031.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[032] Surah As-Sajdah (Sujud)
+https://archive.org/download/MurotalMR/032.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[033] Surah Al-Ahzab (Golongan yang Bersekutu)
+https://archive.org/download/MurotalMR/033.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[034] Surah Saba' (Kaum Saba')
+https://archive.org/download/MurotalMR/034.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[035] Surah Faatir (Pencipta)
+https://archive.org/download/MurotalMR/035.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[036] Surah Yaasin
+https://archive.org/download/MurotalMR/036.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[037] Surah As-Saaffat (Yang Teratur Berbaris)
+https://archive.org/download/MurotalMR/037.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[038] Surah Saad
+https://archive.org/download/MurotalMR/038.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[039] Surah Az-Zumar (Rombongan)
+https://archive.org/download/MurotalMR/039.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[040] Surah Al-Ghafir / Al-Mu'min (Orang yang Beriman)
+https://archive.org/download/MurotalMR/040.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[041] Surah Fussilat (Dijelaskan)
+https://archive.org/download/MurotalMR/041.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[042] Surah Asy-Syuraa (Permesyuaratan)
+https://archive.org/download/MurotalMR/042.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[043] Surah Az-Zukhruf (Perhiasan Emas)
+https://archive.org/download/MurotalMR/043.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[044] Surah Ad-Dukhaan (Kabut / Asap)
+https://archive.org/download/MurotalMR/044.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[045] Surah Al-Jatsiyah (Yang Berlutut)
+https://archive.org/download/MurotalMR/045.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[046] Surah Al-Ahqaaf (Bukit-bukit Pasir)
+https://archive.org/download/MurotalMR/046.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[047] Surah Muhammad (Nabi Muhammad SAW)
+https://archive.org/download/MurotalMR/047.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[048] Surah Al-Fath (Kemenangan)
+https://archive.org/download/MurotalMR/048.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",    [049] Surah Al-Hujurat (Bilik-bilik)
+https://archive.org/download/MurotalMR/049.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[050] Surah Qaaf
+https://archive.org/download/MurotalMR/050.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)
+https://archive.org/download/MurotalMR/051.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[052] Surah At-Tur (Bukit)
+https://archive.org/download/MurotalMR/052.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[053] Surah An-Najm (Bintang)
+https://archive.org/download/MurotalMR/053.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[054] Surah Al-Qamar (Bulan)
+https://archive.org/download/MurotalMR/054.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[055] Surah Ar-Rahman (Yang Maha Pemurah)
+https://archive.org/download/MurotalMR/055.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[056] Surah Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan)
+https://archive.org/download/MurotalMR/056.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[057] Surah Al-Hadid (Besi)
+https://archive.org/download/MurotalMR/057.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[058] Surah Al-Mujadilah (Perempuan yang Merayu)
+https://archive.org/download/MurotalMR/058.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[059] Surah Al-Hasyr (Pengusiran)
+https://archive.org/download/MurotalMR/059.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[060] Surah Al-Mumtahanah (Perempuan yang Diuji)
+https://archive.org/download/MurotalMR/060.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[061] Surah As-Saf (Barisan)
+https://archive.org/download/MurotalMR/061.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[062] Surah Al-Jumu'ah (Hari Jumaat)
+https://archive.org/download/MurotalMR/062.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[063] Surah Al-Munafiquun (Golongan Munafik)
+https://archive.org/download/MurotalMR/063.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[064] Surah At-Taghabun (Dinampakkan Kesalahan)
+https://archive.org/download/MurotalMR/064.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[065] Surah At-Talaq (Cerai / Talak)
+https://archive.org/download/MurotalMR/065.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[066] Surah At-Tahrim (Mengharamkan)
+https://archive.org/download/MurotalMR/066.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[067] Surah Al-Mulk (Kerajaan)
+https://archive.org/download/MurotalMR/067.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[068] Surah Al-Qalam (Pena / Kalam)
+https://archive.org/download/MurotalMR/068.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
+https://archive.org/download/MurotalMR/069.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[070] Surah Al-Ma'arij (Tempat-tempat Naik)
+https://archive.org/download/MurotalMR/070.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[071] Surah Nuh (Nabi Nuh a.s.)
+https://archive.org/download/MurotalMR/071.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[072] Surah A-Jin (Jin)
+https://archive.org/download/MurotalMR/072.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[073] Surah Al-Muzammil (Yang Berselimut)
+https://archive.org/download/MurotalMR/073.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[074] Surah Al-Muddathir (Yang Berselubung)
+https://archive.org/download/MurotalMR/074.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)
+https://archive.org/download/MurotalMR/075.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[076] Surah Al-Insaan (Manusia)
+https://archive.org/download/MurotalMR/076.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[077] Surah Al-Mursalat (Malaikat Yang Diutus)
+https://archive.org/download/MurotalMR/077.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[078] Surah An-Naba' (Berita Besar)
+https://archive.org/download/MurotalMR/078.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[079] Surah An-Naazi'aat (Malaikat Yang Mencabut)
+https://archive.org/download/MurotalMR/079.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[080] Surah 'Abasa (Dia Bermasam Muka)
+https://archive.org/download/MurotalMR/080.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[081] Surah At-Takwiir (Menggulung)
+https://archive.org/download/MurotalMR/081.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[082] Surah Al-Infitar (Terpecah & Terbelah)
+https://archive.org/download/MurotalMR/082.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[083] Surah Al-Mutaffifiin (Golongan yang Curang)
+https://archive.org/download/MurotalMR/083.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[084] Surah Al-Insyiqaaq (Terbelah)
+https://archive.org/download/MurotalMR/084.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[085] Surah Al-Buruj (Gugusan Bintang)
+https://archive.org/download/MurotalMR/085.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[086] Surah At-Taariq (Pengunjung Malam)
+https://archive.org/download/MurotalMR/086.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[087] Surah Al-A'laa (Yang Tertinggi)
+https://archive.org/download/MurotalMR/087.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
+https://archive.org/download/MurotalMR/088.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[089] Surah Al-Fajr (Fajar / Sinar Mentari)
+https://archive.org/download/MurotalMR/089.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[090] Surah Al-Balad (Negeri)
+https://archive.org/download/MurotalMR/090.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[091] Surah Asy-Syams (Matahari)
+https://archive.org/download/MurotalMR/091.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[092] Surah Al-Lail (Malam)
+https://archive.org/download/MurotalMR/092.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
+https://archive.org/download/MurotalMR/093.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)
+https://archive.org/download/MurotalMR/094.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[095] Surah At-Tin (Buah Tin / Buah Ara)
+https://archive.org/download/MurotalMR/095.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[096] Surah Al-'Alaq (Segumpal Darah)
+https://archive.org/download/MurotalMR/096.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[097] Surah Al-Qadr (Kemuliaan)
+https://archive.org/download/MurotalMR/097.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[098] Surah Al-Baiyinah (Bukti yang Nyata)
+https://archive.org/download/MurotalMR/098.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[099] Surah Al-Zalzalah (Kegoncangan)
+https://archive.org/download/MurotalMR/099.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[100] Surah Al-'Aadiyaat (Yang Berlari Kencang)
+https://archive.org/download/MurotalMR/100.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)
+https://archive.org/download/MurotalMR/101.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[102] Surah At-Takathur (Bermegah-Megah)
+https://archive.org/download/MurotalMR/102.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[103] Surah Al-'Asr (Masa)
+https://archive.org/download/MurotalMR/103.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[104] Surah Al-Humazah (Pengumpat)
+https://archive.org/download/MurotalMR/104.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[105] Surah Al-Fiil (Gajah)
+https://archive.org/download/MurotalMR/105.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[106] Surah Quraisy (Kaum Quraisy)
+https://archive.org/download/MurotalMR/106.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[107] Surah Al-Ma'un (Barangan Berguna)
+https://archive.org/download/MurotalMR/107.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[108] Surah Al-Kauthar (Sungai Di Syurga)
+https://archive.org/download/MurotalMR/108.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[109] Surah Al-Kafirun (Golongan Kafir)
+https://archive.org/download/MurotalMR/109.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[110] Surah An-Nasr (Pertolongan)
+https://archive.org/download/MurotalMR/110.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",    [111] Surah Al-Masad / Al-Lahab (Nyalaan Api)
+https://archive.org/download/MurotalMR/111.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)
+https://archive.org/download/MurotalMR/112.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[113] Surah Al-Falaq (Waktu Subuh / Dinihari)
+https://archive.org/download/MurotalMR/113.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="TILAWAH ALQUR'AN",	[114] Surah An-Naas (Manusia)
+https://archive.org/download/MurotalMR/114.mp3
+
+
+
+
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",ANTV
 http://nonton.wap.sh/id/001.m3u8
@@ -15,14 +272,26 @@ http://nonton.wap.sh/id/003.m3u8
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",TRANS7
 http://nonton.wap.sh/id/004.m3u8
 
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",MNC TV
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",MNC TV HD
 http://nonton.wap.sh/id/005.m3u8
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",MNC TV SD
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_600000=4-m4a_64000=2.m3u8
  
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",RCTI
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",RCTI HD
 http://nonton.wap.sh/id/006.m3u8
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",RCTI SD
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_600000=4-m4a_64000=2.m3u8
  
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",GTV
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",GTV HD
 http://nonton.wap.sh/id/007.m3u8
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",GTV SD
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL", Dunia Lain
+www.google.com
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",INEWS TV
 http://nonton.wap.sh/id/008.m3u8
@@ -36,9 +305,12 @@ http://nonton.wap.sh/id/010.m3u8
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",METRO TV
 http://nonton.wap.sh/id/011.m3u8
  
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",NET TV
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",NET TV HD
 http://nonton.wap.sh/id/012.m3u8
  
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",NET TV SD
+http://103.47.132.164/PLTV/88888888/224/3221227101/03.m3u8
+
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",RTV
 http://nonton.wap.sh/id/013.m3u8
 
@@ -59,19 +331,22 @@ http://nonton.wap.sh/id/018.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="RELIGI",tvMU
-https://delivery.macan.live/stream/tvmu/playlist.m3u8?token=macangratisan&v=20200807
+http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="RELIGI",tv9 Nusantara
-https://delivery.macan.live/stream/tv9/playlist.m3u8?token=macangratisan&v=20200807
+http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w807861256.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="RELIGI",MTATV
-https://delivery.macan.live/stream/mtatv/playlist.m3u8?token=macangratisan&v=20200807
+https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(041307e6-5f66-42cc-9215-37bab1980265)/manifest.mpd
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="RELIGI",Salam TV
-https://delivery.macan.live/stream/salam_tv/playlist.m3u8?token=macangratisan&v=20200807
+http://103.47.132.165/PLTV/88888888/224/3221227107/1.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="RELIGI",Al Quran Al Kareem TV
-https://delivery.macan.live/stream/aqak/playlist.m3u8?token=macangratisan&v=20200807
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_600000=4-mp4a_41200=1.m3u8
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="RELIGI",Al Sunnah An Nabawiyyah
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_41200=1.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="RELIGI",AHSAN TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
@@ -388,6 +663,63 @@ http://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Wow Tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
+#EXTM3U
+
+#EXTM3U
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX", NETFLIX ACTION
+
+http://178.63.48.23:25461/netott/nFu0mOB8pm/63
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX", NETFLIX Horror
+
+http://178.63.48.23:25461/netott/nFu0mOB8pm/64
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX", Netflix Comedy
+
+http://178.63.48.23:25461/netott/nFu0mOB8pm/65
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX", NETFLIX ARABIC
+
+http://178.63.48.23:25461/netott/nFu0mOB8pm/66
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX", NETFLIX KIDS
+
+http://178.63.48.23:25461/netott/nFu0mOB8pm/67
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX", NETFLIX ASIA
+
+http://178.63.48.23:25461/netott/nFu0mOB8pm/68
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX", NETFLIX Thriller
+
+http://178.63.48.23:25461/netott/nFu0mOB8pm/69
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX", SHAHID ACTION
+
+http://178.63.48.23:25461/netott/nFu0mOB8pm/80
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX", SHAHID Horror
+
+http://178.63.48.23:25461/netott/nFu0mOB8pm/160
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX", SHAHID ACTION
+
+http://178.63.48.23:25461/netott/nFu0mOB8pm/161
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX", SHAHID Thriller
+
+http://178.63.48.23:25461/netott/nFu0mOB8pm/162
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX", SHAHID COMEDY
+
+http://178.63.48.23:25461/netott/nFu0mOB8pm/163
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX", SHAHID ARABIC
+
+http://178.63.48.23:25461/netott/nFu0mOB8pm/164
+
+
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
@@ -439,7 +771,47 @@ http://103.47.132.165/PLTV/88888888/224/3221227173/2.m3u8
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",AFN
 http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
 
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sport 1
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sport 2
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BeIN Sport 3
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/40
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BeIN Sport 4
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/36
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BeIN Sport 5
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/32
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BeIN Sport 6
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/28
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BeIN Sport 7
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/24
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BeIN Sport 8
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/20
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BeIN Sport 9
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/15
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BeIN Sport 10
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/12
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sport 11
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/9
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",BeIN Sport 12
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/6
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 1 TH
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 2 TH
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
@@ -447,11 +819,13 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 2
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1,#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",champion 1
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion 1
 http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/champion1_rattus/playlist.m3u8
 
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",champion 2
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion 2
 http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/champion2_rattus/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fox Sport
 http://103.47.132.165/PLTV/88888888/224/3221227125/2.m3u8
@@ -537,6 +911,103 @@ http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",TEN 3
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",FOX SPORTS 1 backup
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",FOX SPORTS 2 backup
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",FOX SPORTS 3 backup
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",USee Sport HD 1
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",EGG NETWORK ESSport HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",NBA TV
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Racing.Com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Premier Sport 1
+http://ott-live.olympicchannel.com:80/out/u/OC1_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",TENNIS Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",UFC
+http://live-ng-01.more.tv/hls/UFC/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fight Box
+http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/3083
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Eurosport 1
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",True Sport HD1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",True Sport HD2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",True Sport HD3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",True Sport HD4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sports Xtra
+https://bein-xtra-roku.amagi.tv/ingest/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",BeIN Sport 1 asia
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",BeIN Sport 1
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28732?play_token=3EUkeY2c4P&token=QhVcUhcJRggXXFFeBFUFUQJVU1JTV1FaAQJQUwNQB1YNDlJQAVFUA1ZGGURBEkJRAFtpWgVEXlFdUwZTSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deUlJZCBsWQw0FRggXVgVSA0QcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUAkNKRgoWFBdbCBcODRUVVloQEwVGUEYPRANUAAxDGhRQDhMKFxcdF1tEKyZDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XVAJVBBYc
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",BeIN Sport 2 asia
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",BeIN Sport 2
+http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28731?play_token=kowZaKLn7f&token=QhVcUhcJRggXAlYEA1QCDVlXVFYAVgFUVAAEBV5bWlMAVVFQXVlXCwJGGURBEkJRAFtpWgVEXlFdUwZQSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deUlNSDhsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS", PTV Sports HD 720
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS", PTV Sports SD 360
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="VTV",VTV 1
