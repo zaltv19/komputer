@@ -279,22 +279,22 @@ http://nonton.wap.sh/id/005.m3u8
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_600000=4-m4a_64000=2.m3u8
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",RCTI HD
-http://nonton.wap.sh/id/006.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1602041815~acl=/vp9/665_stream.mpd!/vp9/665/*~hmac=d0af411a4aec800933e91e5cbfc1bef059463897402e7149b4532d8efb65d6bd/vp9/665_stream.mpd
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",RCTI SD
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_600000=4-m4a_64000=2.m3u8
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",GTV HD
-http://nonton.wap.sh/id/007.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1602041815~acl=/vp9/778_stream.mpd!/vp9/778/*~hmac=fbde780ee20c1fd82f700331f13d557759e529c76a6e8437c2a7ee87852b60e1/vp9/778_stream.mpd
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",GTV SD
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL", Dunia Lain
-www.google.com
+http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=dunialain
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",INEWS TV
-http://nonton.wap.sh/id/008.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1602041816~acl=/hls-p/ingest_5409_*/*~hmac=a8b60306a7e4da59dd11eb5384ffe355c8865b881205680a2feaac47d2a04889/hls-p/ingest_5409_720p/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",SCTV
 http://nonton.wap.sh/id/009.m3u8
@@ -331,16 +331,16 @@ http://nonton.wap.sh/id/018.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="RELIGI",tvMU
-http://103.30.1.14:8080/hls/live.m3u8
+http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=muhammadiyahtv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="RELIGI",tv9 Nusantara
 http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w807861256.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="RELIGI",MTATV
-https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(041307e6-5f66-42cc-9215-37bab1980265)/manifest.mpd
+http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=mtatv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="RELIGI",Salam TV
-http://103.47.132.165/PLTV/88888888/224/3221227107/1.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="RELIGI",Al Quran Al Kareem TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_600000=4-mp4a_41200=1.m3u8
@@ -663,9 +663,6 @@ http://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Wow Tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 
-#EXTM3U
-
-#EXTM3U
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX", NETFLIX ACTION
 
@@ -813,28 +810,35 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 2 TH
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 1
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 1 Asia
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 2
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 2 Asia
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 1 ID
+http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=bein1
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 2 ID
+http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=bein2
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion 1
-http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/champion1_rattus/playlist.m3u8
+https://cdnmdc1.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion 2
-http://serverid.tech/play/user246@serverid.tech/11712004/gkfuYWWX/rattus/champion2_rattus/playlist.m3u8
+https://cdnmdc1.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
 
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion 3
+https://cdnmdc1.useetv.com/dass/15/champion3/chunklist_w2141102661_b894100_sleng_57560.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fox Sport
-http://103.47.132.165/PLTV/88888888/224/3221227125/2.m3u8
+http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=foxsport1
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fox Sport 2
-http://103.47.132.165/PLTV/88888888/224/3221227175/2.m3u8
+http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=foxsport2
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fox Sport 3
-http://103.47.132.165/PLTV/88888888/224/3221227219/2.m3u8
+http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=foxsport3
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",FOX Sport 506
 http://45.58.62.92:8080/
