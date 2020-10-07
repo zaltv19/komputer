@@ -772,6 +772,38 @@ http://103.47.132.165/PLTV/88888888/224/3221227173/2.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
 
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", |AR| BEIN SPORT1 SD  AR
+#EXTVLCOPT:http-user-agent=scagagwe33333
+http://blackfiretv.net:25461/BLACKSPORT/nxhgmhtxhfsnfgsngara/114
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", |AR| BEIN SPORT2 SD  AR
+#EXTVLCOPT:http-user-agent=scagagwe33333
+http://blackfiretv.net:25461/BLACKSPORT/nxhgmhtxhfsnfgsngara/115
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", |AR| BEIN SPORT3 SD  AR
+#EXTVLCOPT:http-user-agent=scagagwe33333
+http://blackfiretv.net:25461/BLACKSPORT/nxhgmhtxhfsnfgsngara/116
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", |AR| BEIN SPORT4 SD  AR
+#EXTVLCOPT:http-user-agent=scagagwe33333
+http://blackfiretv.net:25461/BLACKSPORT/nxhgmhtxhfsnfgsngara/117
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", |AR| BEIN SPORT5 SD  AR
+#EXTVLCOPT:http-user-agent=scagagwe33333
+http://blackfiretv.net:25461/BLACKSPORT/nxhgmhtxhfsnfgsngara/118
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", |AR| BEIN SPORT6 SD  AR
+#EXTVLCOPT:http-user-agent=scagagwe33333
+http://blackfiretv.net:25461/BLACKSPORT/nxhgmhtxhfsnfgsngara/119
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", |AR| BEIN SPORT7 SD  AR
+#EXTVLCOPT:http-user-agent=scagagwe33333
+http://blackfiretv.net:25461/BLACKSPORT/nxhgmhtxhfsnfgsngara/120
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", |AR| BEIN SPORT8 SD  AR
+#EXTVLCOPT:http-user-agent=scagagwe33333
+http://blackfiretv.net:25461/BLACKSPORT/nxhgmhtxhfsnfgsngara/121
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", |AR| BEIN SPORT9 SD  AR
+#EXTVLCOPT:http-user-agent=scagagwe33333
+http://blackfiretv.net:25461/BLACKSPORT/nxhgmhtxhfsnfgsngara/122
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", |AR| BEIN SPORT10SD  AR
+#EXTVLCOPT:http-user-agent=scagagwe33333
+http://blackfiretv.net:25461/BLACKSPORT/nxhgmhtxhfsnfgsngara/123
+
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 1 
 http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5986?checkedby
 
@@ -807,7 +839,6 @@ http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5996?checkedby
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 12
 http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5997?checkedby
-
 
 
 
