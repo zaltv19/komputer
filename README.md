@@ -583,7 +583,10 @@ http://60.175.115.119:1935/live/wenhua/playlist.m3u8?checkedby
 
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Disney Channel
-http://103.47.132.165/PLTV/88888888/224/3221227183/2.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Cartoon Network
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Zoo Moo
 http://103.47.132.165/PLTV/88888888/224/3221227323/2.m3u8
