@@ -340,7 +340,7 @@ http://wowza60.indostreamserver.com:1935/tv9/live/chunklist_w807861256.m3u8
 http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=mtatv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="RELIGI",Salam TV
-
+http://103.130.186.138:8800/oxygenplay/salamtv/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="RELIGI",Al Quran Al Kareem TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran-avc1_600000=4-mp4a_41200=1.m3u8
