@@ -1,9 +1,3 @@
-▂ ▃ ▅ ▆ ▇ █ Sudah bongkar playlist saya? wkwkwkwkwkwkkwwkwkwkwkwkw ! █ ▇ ▆ ▅ ▃ ▂
-▂ ▃ ▅ ▆ ▇ █ Sudah bongkar playlist saya? wkwkwkwkwkwkkwwkwkwkwkwkw ! █ ▇ ▆ ▅ ▃ ▂
-▂ ▃ ▅ ▆ ▇ █ Sudah bongkar playlist saya? wkwkwkwkwkwkkwwkwkwkwkwkw ! █ ▇ ▆ ▅ ▃ ▂
-▂ ▃ ▅ ▆ ▇ █ Play lsit ini juga bongkar dan ambil dari punya kalian ! █ ▇ ▆ ▅ ▃ ▂
-▂ ▃ ▅ ▆ ▇ █ Ini dunia maya bro ............!!!!!!!!!!!!!!!!!!!!!!!!! █ ▇ ▆ ▅ ▃ ▂
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fsp414W/photo-2020-08-04-08-57-18.jpg" group-title="INFO", INFO ZALTV Telegram Group: t.me/zaltvmuridnakal
 https://www.dropbox.com/s/91kirxdiyzdfq49/video_2020-09-12_15-03-50.mp4?dl=1
