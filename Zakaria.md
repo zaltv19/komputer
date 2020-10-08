@@ -587,7 +587,7 @@ http://60.175.115.119:1935/live/wenhua/playlist.m3u8?checkedby
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Cartoon Network
-http://thepwfamily.com/stream/cartoonnetwork.m3u8
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Cartoon club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
