@@ -1,8 +1,86 @@
 
 #EXTM3U
 
+####### RADIO #######
 
-
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Ardan FM
+http://listento.ardanradio.com:1059/;
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Ardan Radio
+http://listento.ardanradio.com:1059/
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Argososro 93.2 FM
+http://jkt.jogjastreamers.com:8000/sasstereo?s=641305233721602
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Bass FM 93.2 Salatiga
+http://live.bassfm.id/
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", BBMFM
+http://stream.zenolive.com/kchb1gp3a1duv
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", BE FM SEMARANG
+http://103.29.212.166:9328/
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Berita Satu News TV
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", CNN Indonesia TV
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w275412545_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", EBS 105.9 FM
+http://202.43.173.188:8100/;
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", EL SHADDAI FM SOLO
+http://shaddai.onlivestreaming.net:9130/live
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Elshinta
+http://202.137.4.147:8000/
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", FeMale Radio 97.9 FM Jakarta
+http://masima.rastream.com/masima-femaleradio?type=.mp3
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Geronimo 106.1 FM
+http://live2.indostreamserver.com:8018/;
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", GRACE ALONE MINISTRY SURABAYA
+http://u.klikhost.net:8000/gracealone
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Hardrock 87.6 FM Jakarta
+http://stream.radiojar.com:80/7csmg90fuqruv
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", HEALING MOVEMENT MINISTRY BOGOR
+http://stream.hmm-radio.net:8002/ogg
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", ICHTHUS FM SEMARANG
+http://stream.suararadio.com:8000/ichthusfm_stereo
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Jiz 89.5 FM
+http://usa.jogjastreamers.com:8000/jisstereo
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", KIDUNG AGUNG FM JAKARTA
+http://u.klikhost.com:7120/;
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", MAESTRO FM BANDUNG
+http://maestro.skyline.net.id:10925/radio.maestro
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", MAZMUR FM JAKARTA
+http://u.klikhost.com:7118/;
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Metro News TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1775322847_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Nagaswara FM Bogor
+http://bogor.nagaswarafm.com:8088/stream
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Prambors FM
+http://masima.rastream.com/masima-pramborsjakarta?awparams=stationid:masima-pramborsjakarta
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Prambors FM Jakarta
+http://masima.rastream.com/masima-pramborsjakarta?
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Prambors otopulsa.com
+http://masima.rastream.com/masima-pramborsjakarta?awparams=stationid:masima-pramborsjakarta
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", RADIO MARIA MEDAN
+http://dreamsiteradiocp.com:8062/;
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Radio Muslim Jogja
+http://live.radiomuslim.com:80/
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", RDI 97.1 FM
+http://202.147.199.99:8000/;stream/1
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Retjo Buntung 99.4 FM
+http://45.64.97.82:9940
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", V Radio
+http://202.147.199.100:8000/;stream.nsv
+EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Radio Hospitals Blackburn
+http://109.74.196.76:8312/stream
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Gerbera Radio - Yesterday's Music Today!
+http://mediacp.shoutcastradio.nl:4226/stream
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", KOCK.rocks BiPolar Radio
+http://96.72.4.2:8000/
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", My Digital Bo
+http://54.39.98.5:8000/
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Radio  Lobo
+http://37.187.90.196:9032/stream
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", Flashback Alternatives
+http://listen.radionomy.com:80/FlashbackAlternatives
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", 3WK.COM Classic Alternative Radio
+http://listen.radionomy.com/3WKCOMClassicAlternativeRadio
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Radio", AKSI AM MEDAN
+http://live.radiobethany.com:8152/;
 
 ####### Tilawah Al-Qur'an #######
 
