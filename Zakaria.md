@@ -775,74 +775,126 @@ http://103.47.132.165/PLTV/88888888/224/3221227173/2.m3u8
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",AFN
 http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 1 
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5986?checkedby
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 2
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5987?checkedby
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 3
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5988?checkedby
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 4
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5989?checkedby
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 5
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5990?checkedby
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 6 
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5991?checkedby
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 7 
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5992?checkedby
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 8
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5993?checkedby
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 9
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5994?checkedby
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 10
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5995?checkedby
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 11
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5996?checkedby
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 12
-http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/5997?checkedby
-
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 0
-http://cdn1.52dvb.xyz:80/5000/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 1
-http://ydv2wp0o6ma.a.trbcdn.net/hls/m3u8/CDN-HLS-Bein1-F.m3u8
- 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 2
-http://cdn1.52dvb.xyz:80/5001/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 3
-http://cdn1.52dvb.xyz:80/5002/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 4
-http://cdn1.52dvb.xyz:80/5003/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 5
-http://cdn1.52dvb.xyz:80/5004/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 6
-http://cdn1.52dvb.xyz:80/5006/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 7
-http://cdn1.52dvb.xyz:80/5005/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 8
-http://cdn1.52dvb.xyz:80/5007/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 9
-http://cdn1.52dvb.xyz:80/5008/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 10
-http://cdn1.52dvb.xyz:80/5009/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 1 1M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/268
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 2 1M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/269
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 3 1M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/270
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 4 1M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/271
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 5 1M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/272
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 6 1M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/273
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 7 1M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/274
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 8 1M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/275
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 9 1M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/276
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 10 1M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/277
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 11 1M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/278
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 12 1M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/279
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 1 2M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/280
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 2 2M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/281
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 3 2M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/282
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 4 2M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/283
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 5 2M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/284
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 6 2M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/285
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 7 2M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/286
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 8 2M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/287
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 9 2M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/288
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 10 2M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/289
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 11 2M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/290
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 12 2M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/291
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 1 4M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/292
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 2 4M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/293
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 3 4M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/294
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 4 4M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/295
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 5 4M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/296
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 6 4M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/297
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 7 4M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/298
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 8 4M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/299
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 9 4M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/300
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 10 4M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/301
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 11 4M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/302
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 12 4M
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/303
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 1 Hd
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/256
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 2 Hd
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/257
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 3 Hd
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/258
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 4 Hd
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/259
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 5 Hd
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/260
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 6 Hd
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/261
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 7 Hd
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/262
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 8 Hd
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/263
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 9 Hd
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/264
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 10 Hd
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/265
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 11 Hd
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/266
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 12 Hd
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/267
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 1 FHD
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/244
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 2 FHD
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/245
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 3 FHD
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/246
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 4 FHD
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/247
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 5 FHD
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/248
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 6 FHD
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/249
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 7 FHD
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/250
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 8 FHD
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/251
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 9 FHD
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/252
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 10 FHD
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/253
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 11 FHD
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/254
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein 12 FHD
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/255
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", Bein Sports 1 TH
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
