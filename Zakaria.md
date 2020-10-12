@@ -1,5 +1,3 @@
-
-
 #EXTM3U
 
 ####### RADIO #######
@@ -347,23 +345,23 @@ http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=indosiar
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TRANS TV
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=trans7
-
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TRANS7
 http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=transtv
 
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TRANS7
+http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=trans7
+
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",MNC TV
-https://etslive-2-vidio-com.akamaized.net/exp=1602041815~acl=/vp9/870_stream.mpd!/vp9/870/*~hmac=33f58ba18d4febbf5508a7acf54b469365b556a54bbdac706f5211ac85f7c8fd/vp9/870_stream.mpd
- 
+https://etslive-2-vidio-com.akamaized.net/exp=1602553015~acl=/vp9/870_stream.mpd!/vp9/870/*~hmac=506ed3ef4f6bbe0316012f107ba444a6ab77da7268b376e5a1411f3dde33ca94/vp9/870_stream.mpd
+
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1602041815~acl=/vp9/665_stream.mpd!/vp9/665/*~hmac=d0af411a4aec800933e91e5cbfc1bef059463897402e7149b4532d8efb65d6bd/vp9/665_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1602553015~acl=/vp9/665_stream.mpd!/vp9/665/*~hmac=3b54f0d10e53b09c0b6ae8b7743617d76c5cd1e462804f510974c79692f354fe/vp9/665_stream.mpd
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",GTV
 https://etslive-2-vidio-com.akamaized.net/exp=1602041815~acl=/vp9/778_stream.mpd!/vp9/778/*~hmac=fbde780ee20c1fd82f700331f13d557759e529c76a6e8437c2a7ee87852b60e1/vp9/778_stream.mpd
 
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",INEWS TV
-https://etslive-2-vidio-com.akamaized.net/exp=1602041816~acl=/hls-p/ingest_5409_*/*~hmac=a8b60306a7e4da59dd11eb5384ffe355c8865b881205680a2feaac47d2a04889/hls-p/ingest_5409_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1602553016~acl=/hls-p/ingest_5409_*/*~hmac=c8033ef68dcfc714cd11f77c7e7aa3612c45a31c26e10db14b7cd8830c14879c/hls-p/ingest_5409_720p/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",SCTV
 http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=sctv
@@ -376,8 +374,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1602049017/ei/m
 https://etslive-2-vidio-com.akamaized.net/exp=1602041816~acl=/vp9/777_stream.mpd!/vp9/777/*~hmac=d25206fec77249f06d7658a052ac7b1a86066a9032dd4d0632146eb9c461abc5/vp9/777_stream.mpd
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",NET TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1602049017/ei/mf98X_-VJquf3LUPiaCd0AM/ip/103.129.221.31/id/MSQhwpYQbtQ.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOpzIvnhwWYfoUJpF9YxhKJxgncK2k6hXF9oz6xT8IcbAiEA2Nsr5N_KdePu3ngjJKEJs6SOKxL7F1NyyGjZqTVAtIs%3D/file/index.m3u8
-
+https://etslive-2-vidio-com.akamaized.net/exp=1602553015~acl=/vp9/875_stream.mpd!/vp9/875/*~hmac=a58bde27993f71f59a117a7f019ad1fbc9876970b865178d0dc517cc32514d03/vp9/875_stream.mpd
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",RTV
 http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=rtv
@@ -727,6 +724,13 @@ http://60.175.115.119:1935/live/wenhua/playlist.m3u8?checkedby
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Disney Channel
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
 
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Nick Junior
+http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=nickjr
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Nickelodeon
+http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=nickelodeon
+
+
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Cartoon Network
 https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
 
@@ -816,6 +820,38 @@ http://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Wow Tv
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX",Netflíx Horror
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/39100
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX",Netflíx Movies 1
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/40360
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX",Netflíx Kids 1 AR
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/40361
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX",Netflíx Kids 2 AR
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/40617
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX",Netflíx Tom & Jerry
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/40620
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX",Netflíx ACTION HD
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/40756
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX",Netflíx MOVIES PLUS HD
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/40757
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX",Netflíx HORROR 2 HD
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/40758
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX",Netflíx ACTION 2 HD
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/40764
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX",Netflíx Classic AR
+http://uniontv.info:8080/fadejubeh8384848/fadejubeh73748/41238
+
 
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NETFLIX", NETFLIX ACTION
