@@ -339,7 +339,7 @@ https://archive.org/download/MurotalMR/114.mp3
 
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",ANTV
-http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",INDOSIAR
 http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=indosiar
@@ -380,15 +380,15 @@ https://etslive-2-vidio-com.akamaized.net/exp=1602553015~acl=/vp9/875_stream.mpd
 http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=rtv
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",KOMPAS TV
-https://etslive-2-vidio-com.akamaized.net/exp=1602041816~acl=/vp9/874_stream.mpd!/vp9/874/*~hmac=dcaacfbcda14e02f4db8d3206e099a46acd1e1bf92e6222193b65e0bc6464507/vp9/874_stream.mpd
- 
+http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=kompastv
+
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",BERITA SATU
 http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=beritasatu
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",CNN INDONESIA
 http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=cnnindonesia
 
-#EXTINF:-1,tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV", CNN International
+#EXTINF:-1,tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",CNN International
 http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=cnninternational
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",CNBC INDONESIA
