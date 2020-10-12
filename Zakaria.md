@@ -729,7 +729,7 @@ http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Cartoon Network
 https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Cartoon Network
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Cartoon Network id
 http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=cartoonnetwork
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Cartoon club
@@ -751,7 +751,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227539/2.m3u8
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Boomerang id
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=bloomberg
+http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=boomerang
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
