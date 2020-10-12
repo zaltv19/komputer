@@ -1061,7 +1061,7 @@ https://cdnmdc1.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng
 https://cdnmdc1.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion 3
-https://streaming.yn.lt/live/tv_id/cham3.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",useesport 1
