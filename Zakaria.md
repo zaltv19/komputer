@@ -1438,6 +1438,23 @@ https://dl.dropbox.com/s/w1sroagglp9ebkv/red.m3u8?dl=1
 
 
 
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="HBO",ID HBO
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=hbo
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="HBO",ID HBO Signature 
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=hbosignature
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="HBO",ID HBO Hits
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=hbohits
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="HBO",ID HBO Family
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=hbofamily
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="HBO",ID Cinemax
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=cinemax
+
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="HBO",ID Red By HBO
+https://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=red
 
 
 
