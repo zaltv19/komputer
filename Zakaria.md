@@ -388,7 +388,7 @@ http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=beritasatu
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",CNN INDONESIA
 http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=cnnindonesia
 
-#EXTINF:-1,tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",CNN International
+#EXTINF:-1, tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",CNN International
 http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=cnninternational
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",CNBC INDONESIA
