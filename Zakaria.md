@@ -1123,7 +1123,7 @@ https://cdnmdc1.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng
 https://cdnmdc1.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion 3
-https://etslive-2-vidio-com.akamaized.net/exp=1602609625~acl=/hls-p/ingest_geo_6786_*/*~hmac=b727cb241c58cb16d2adb6f688fa63ac7d048e29aae6b93c806ad01437bc4f46/hls-p/ingest_geo_6786_720p/index.m3u8
+https://m3u-editor.com/serve/366bedf0/116873617
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",useesport 1
 http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=useesport
