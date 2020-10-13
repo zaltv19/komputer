@@ -506,6 +506,9 @@ http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 
 
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL",Matrix TV
+https://m3u-editor.com:443/live/u30aifdg/fbmchsy1/108681930.m3u8
+
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL",DigiOne MAXstream
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(83ea818f-6dcb-4d0e-bd5f-9873105639c0)/index.m3u8
 
