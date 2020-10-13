@@ -339,63 +339,59 @@ https://archive.org/download/MurotalMR/114.mp3
 
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",ANTV
-http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",INDOSIAR
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=indosiar
+
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TRANS TV
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=transtv
+
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TRANS7
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=trans7
+
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",MNC TV
-https://etslive-2-vidio-com.akamaized.net/exp=1602553015~acl=/vp9/870_stream.mpd!/vp9/870/*~hmac=506ed3ef4f6bbe0316012f107ba444a6ab77da7268b376e5a1411f3dde33ca94/vp9/870_stream.mpd
+
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1602553015~acl=/vp9/665_stream.mpd!/vp9/665/*~hmac=3b54f0d10e53b09c0b6ae8b7743617d76c5cd1e462804f510974c79692f354fe/vp9/665_stream.mpd
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",GTV
-https://etslive-2-vidio-com.akamaized.net/exp=1602041815~acl=/vp9/778_stream.mpd!/vp9/778/*~hmac=fbde780ee20c1fd82f700331f13d557759e529c76a6e8437c2a7ee87852b60e1/vp9/778_stream.mpd
 
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",INEWS TV
-https://etslive-2-vidio-com.akamaized.net/exp=1602553016~acl=/hls-p/ingest_5409_*/*~hmac=c8033ef68dcfc714cd11f77c7e7aa3612c45a31c26e10db14b7cd8830c14879c/hls-p/ingest_5409_720p/index.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",SCTV
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=sctv
+
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TV ONE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1602049017/ei/mf98X_j_D77C4-EP3v2MeA/ip/103.129.221.31/id/G6Z1OWI6_j8.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKn1zg8VpTPHUASe-mtrBUTM04MFAqm-crzXRrYRv9XbAiEA0lVXdVQ6nX7pUMzg8I94kH1ToH3Oy4-tgo7n-qL-O6Y%3D/file/index.m3u8
 
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",METRO TV
-https://etslive-2-vidio-com.akamaized.net/exp=1602041816~acl=/vp9/777_stream.mpd!/vp9/777/*~hmac=d25206fec77249f06d7658a052ac7b1a86066a9032dd4d0632146eb9c461abc5/vp9/777_stream.mpd
- 
+
+
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",NET TV
-https://etslive-2-vidio-com.akamaized.net/exp=1602553015~acl=/vp9/875_stream.mpd!/vp9/875/*~hmac=a58bde27993f71f59a117a7f019ad1fbc9876970b865178d0dc517cc32514d03/vp9/875_stream.mpd
+
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",RTV
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=rtv
+
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",KOMPAS TV
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=kompastv
+
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",BERITA SATU
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=beritasatu
+
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",CNN INDONESIA
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=cnnindonesia
+
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",CNN International
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=cnninternational
+
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",CNBC INDONESIA
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=cnbcindonesia
+
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL USEETV",TVRI
-https://etslive-2-vidio-com.akamaized.net/exp=1602041816~acl=/vp9/874_stream.mpd!/vp9/874/*~hmac=dcaacfbcda14e02f4db8d3206e099a46acd1e1bf92e6222193b65e0bc6464507/vp9/874_stream.mpd
 
 
 
@@ -1111,10 +1107,10 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 1 ID
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=bein1
+https://cdnmdc1.useetv.com/dass/15/bein1/chunklist_w2141102661_b894100_sleng_57560.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 2 ID
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=bein2
+https://cdnmdc1.useetv.com/dass/15/bein2/chunklist_w2141102661_b894100_sleng_57560.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion 1
 https://cdnmdc1.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
@@ -1126,19 +1122,19 @@ https://cdnmdc1.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_
 https://m3u-editor.com/serve/366bedf0/116873617
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",useesport 1
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=useesport
+https://vcdnjt.useetv.com/dass/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
  
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",useesport 2
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=useesports2
+https://vcdnjt.useetv.com/dass/15/useesports2/chunklist_w1021856449_b1344100_sleng_87965.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fox Sport
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=foxsport1
+https://vcdnjt.useetv.com/dass/15/foxsport1/chunklist_w478388508_b894100_sleng_90945.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fox Sport 2
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=foxsport2
+https://vcdnjt.useetv.com/dass/15/foxsport2/chunklist_w356031347_b894100_sleng_424675.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Fox Sport 3
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=foxsport3
+https://vcdnjt.useetv.com/dass/15/foxsport3/chunklist_w1036403467_b684100_sleng_enc=dZVe0sRkRgVGf8sNJE0QRg.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",FOX Sport 506
 http://45.58.62.92:8080/
