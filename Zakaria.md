@@ -399,17 +399,18 @@ https://etslive-2-vidio-com.akamaized.net/exp=1602041816~acl=/vp9/874_stream.mpd
 
 
 
+
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",ANTV
-http://nonton.wap.sh/id/001.m3u8
+http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",INDOSIAR
-http://nonton.wap.sh/id/002.m3u8
+http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",TRANS TV
-http://nonton.wap.sh/id/003.m3u8
+http://103.130.186.138:8800/oxygenplay/transtv/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",TRANS7
-http://nonton.wap.sh/id/004.m3u8
+http://103.130.186.138:8800/oxygenplay/trans7/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",MNC TV HD
 http://nonton.wap.sh/id/005.m3u8
@@ -418,43 +419,40 @@ http://nonton.wap.sh/id/005.m3u8
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_600000=4-m4a_64000=2.m3u8
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",RCTI HD
-https://etslive-2-vidio-com.akamaized.net/exp=1602041815~acl=/vp9/665_stream.mpd!/vp9/665/*~hmac=d0af411a4aec800933e91e5cbfc1bef059463897402e7149b4532d8efb65d6bd/vp9/665_stream.mpd
+http://nonton.wap.sh/id/006.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",RCTI SD
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_600000=4-m4a_64000=2.m3u8
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",GTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1602041815~acl=/vp9/778_stream.mpd!/vp9/778/*~hmac=fbde780ee20c1fd82f700331f13d557759e529c76a6e8437c2a7ee87852b60e1/vp9/778_stream.mpd
+http://nonton.wap.sh/id/007.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",GTV SD
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
 
-#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL", Dunia Lain
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=dunialain
-
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",INEWS TV
-https://etslive-2-vidio-com.akamaized.net/exp=1602041816~acl=/hls-p/ingest_5409_*/*~hmac=a8b60306a7e4da59dd11eb5384ffe355c8865b881205680a2feaac47d2a04889/hls-p/ingest_5409_720p/index.m3u8
+http://nonton.wap.sh/id/008.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",SCTV
-http://nonton.wap.sh/id/009.m3u8
+http://103.130.186.138:8800/oxygenplay/sctv/index.m3u8
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",TV ONE
-http://nonton.wap.sh/id/010.m3u8
+http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",METRO TV
-http://nonton.wap.sh/id/011.m3u8
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",NET TV HD
-http://nonton.wap.sh/id/012.m3u8
+http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",NET TV SD
 http://103.47.132.164/PLTV/88888888/224/3221227101/03.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",RTV
-http://nonton.wap.sh/id/013.m3u8
+http://103.130.186.138:8800/oxygenplay/rtv/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",KOMPAS TV
-http://nonton.wap.sh/id/014.m3u8
+http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
  
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="NASIONAL",BERITA SATU
 http://nonton.wap.sh/id/015.m3u8
@@ -505,6 +503,8 @@ http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="RELIGI",RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL", Dunia Lain
+http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=dunialain
 
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL",Matrix TV
 https://m3u-editor.com:443/live/u30aifdg/fbmchsy1/108681930.m3u8
