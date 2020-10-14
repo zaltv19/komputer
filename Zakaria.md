@@ -553,6 +553,123 @@ http://wms.klikhost.com:1935/tegartv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL",TATV
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
 
+###########################################################################################
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",THRILL
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",CELESTIAL MOVIES
+http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",ZEE BIOSKOP
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",EPIC DRAMA
+http://37.48.86.45:8182/epic-drama/mpegts?
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",AXN ID
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",Blue Ant Entertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",FOX HD 1
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",Fox Premium Movies 1
+https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",Fox Thai 1
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",FOX HD 2
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",Fox Premium Movies 2
+https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",Fox Thai 1
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",HBO 1
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",HBO 2
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",HBO 3
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",HBO HD
+https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",HBO Hits
+https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",HBO Redby
+https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",SINEMA INDONESIA
+http://210.210.155.35/session/00c938c4-0ad3-11eb-ad98-ab26b60fe2f7/x6bnqe/s/s71/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",CELESTIAL MOVIES 2
+http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",CINEMA WORLD
+http://210.210.155.35:80/uq2663/h/h04/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",HITS
+http://210.210.155.35:80/uq2663/h/h37/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",K+
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",SONY HD
+http://103.214.202.218:8081/live/sony-40/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",SONY GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",GR CINEMA 1
+http://37.48.86.45:8182/OTEcinema1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",GR CINEMA 2
+http://37.48.86.45:8182/OTEcinema2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",GR CINEMA 3
+http://37.48.86.45:8182/OTEcinema3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",GR SERIES
+http://37.48.86.45:8182/OTEcinema4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",NOVA CINEMA 1
+http://37.48.86.45:8182/SUPercineMA1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",NOVA CINEMA 2
+http://37.48.86.45:8182/SUPercineMA2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",NOVA CINEMA 3
+http://37.48.86.45:8182/SUPercineMA3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",NOVA CINEMA 4
+http://37.48.86.45:8182/SUPercineMA4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",Warner TV HD
+https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",SONY HD
+http://103.214.202.218:8081/live/sony-40/playlist.m3u8
+
+
+#######################################################################################################
+
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MOVIES",ATV
 http://stream1.ninmedia.tv:1935/atv/udp.stream/chunklist_w465987392.m3u8
