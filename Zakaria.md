@@ -1110,10 +1110,10 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 1 ID
-https://cdnmdc1.useetv.com/dass/15/bein1/chunklist_w2141102661_b894100_sleng_57560.m3u8
+http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=bein1
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 2 ID
-https://cdnmdc1.useetv.com/dass/15/bein2/chunklist_w2141102661_b894100_sleng_57560.m3u8
+http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=bein2
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion 1
 https://cdnmdc1.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
@@ -1122,7 +1122,7 @@ https://cdnmdc1.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng
 https://cdnmdc1.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion 3
-
+https://salonbondang.masuk.web.id/ekonomis/stream/premi-championtv3-ZalogiAstroXTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",useesport 1
 https://cdnmdc1.useetv.com/dass/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
@@ -1421,7 +1421,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b22
 http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=pramborstv
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MUSIC",DJ NONSTOP
-https://tx.flv.nimo.tv/live/su1599512427590r3b61849513226fdc4903aed65a32445b_high.flv
+
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MUSIC",MGS TV
 http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
@@ -1448,7 +1448,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227133/2.m3u8
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MUSIC",MAXSTREAM MUSIC
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/manifest.mpd
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(628abc6c-45eb-8a06-3a02-1cc959bce843)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MUSIC",K pop
 https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
