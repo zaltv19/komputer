@@ -1244,7 +1244,6 @@ https://salonbondang.masuk.web.id/ekonomis/stream/premi-championtv1-ZalogiAstroX
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS"Champion 2 vidio.com
 https://salonbondang.masuk.web.id/ekonomis/stream/premi-championtv2-ZalogiAstroXTV.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion 3 vidio.com
 https://salonbondang.masuk.web.id/ekonomis/stream/premi-championtv3-ZalogiAstroXTV.m3u8
 
