@@ -1232,11 +1232,18 @@ http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=bein1
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 2 ID
 http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=bein2
 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion 1
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion TV 1 vidio.com
 https://cdnmdc1.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion 2
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion TV 2 vidio.com
 https://cdnmdc1.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS"Champion TV 1 vidio.com
+https://salonbondang.masuk.web.id/ekonomis/stream/premi-championtv1-ZalogiAstroXTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS"Champion 2
+https://salonbondang.masuk.web.id/ekonomis/stream/premi-championtv2-ZalogiAstroXTV.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion 3
 https://salonbondang.masuk.web.id/ekonomis/stream/premi-championtv3-ZalogiAstroXTV.m3u8
