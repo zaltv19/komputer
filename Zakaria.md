@@ -1221,10 +1221,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf50009
 
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 1 Asia
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+http://iptvfree1.com:7899/xih9BMko8z/067yOFnd5L/55509
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 2 Asia
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+http://iptvfree1.com:7899/xih9BMko8z/067yOFnd5L/55510
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Bein Sport 1 ID
 http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=bein1
