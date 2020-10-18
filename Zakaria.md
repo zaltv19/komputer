@@ -1423,7 +1423,7 @@ https://tx.flv.nimo.tv/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_hig
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MUSIC",Prambors
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=pramborstv
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=0990fc3dbc01e3b6026e8a1860bd3d31fad6f4e614a212e80c67249a666d2b09
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MUSIC",T Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
