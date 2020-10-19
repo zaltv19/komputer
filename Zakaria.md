@@ -814,7 +814,13 @@ http://103.47.132.165/PLTV/88888888/224/3221227353/2.m3u8
 http://103.130.186.138:8800/oxygenplay/spacetoon/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",ANIMAX
+https://hlstw.ihome.tokyo/live/cs25.stream/playlist.m3u8?wowzasessionid=1418677106
 
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS", ANIMAX ID
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS", ANIPLUS ID
+http://210.210.155.35:80/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KIDS",Disney Junior
 http://103.47.132.165/PLTV/88888888/224/3221227539/2.m3u8
