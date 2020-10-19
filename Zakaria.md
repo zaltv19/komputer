@@ -447,6 +447,9 @@ http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL", Dunia Lain
 http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=6fbb752d15ccfea071c0d563cf68e997fad6f4e614a212e80c67249a666d2b09
 
+#EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL",oxygen tv
+http://103.130.186.138:8800/oxygenplay/oxygentv/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="LOKAL",Matrix TV
 https://m3u-editor.com:443/live/u30aifdg/fbmchsy1/108681930.m3u8
 
