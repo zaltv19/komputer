@@ -1042,58 +1042,26 @@ http://103.47.132.165/PLTV/88888888/224/3221227173/2.m3u8
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",AFN
 http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
 
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 1 FHD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575110
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 2 FHD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575111
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 3 FHD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575112
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 4 FHD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575113
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 5 FHD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575114
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 6 FHD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575115
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 7 FHD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575116
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 8 FHD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575117
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 9 FHD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575118
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 10 FHD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575119
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 11 FHD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575120
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 12 FHD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575121
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 13 FHD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575122
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 14 FHD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575123
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 15 FHD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575124
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 16 FHD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575125
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 1 HD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575126
+https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/120972631
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 2 HD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575127
+https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/120972632
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 3 HD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575128
+https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/120972633
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 4 HD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575129
+https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/120972634
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 5 HD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575130
+https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/120972635
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 6 HD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575131
+https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/120972636
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 7 HD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575132
+https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/120972637
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 8 HD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575133
+https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/120972638
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 9 HD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575134
+https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/120972639
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 10 HD
-https://m3u-editor.com/serve/908d0b20-0f6e-11eb-bb97-f3549d2c2d45/118575135
+https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/120972640
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 1 TH
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
