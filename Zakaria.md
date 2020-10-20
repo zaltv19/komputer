@@ -1075,18 +1075,24 @@ https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/120972638
 https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/120972639
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 10 HD
 https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/120972640
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 11 HD
-https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/121341979
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 12 HD
-https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/121341980
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 13 HD
-https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/121341981
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 14 HD
-https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/121341982
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 15 HD
-https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/121341983
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 16 HD
-https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/121341984
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 11 HD
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_11_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 12 HD
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_12_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 13 HD
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_13_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 14 HD
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_14_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 15 HD
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_15_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 16 HD
+http://arb.ssltv.net:9263/AR_SD_-_BEIN_SPORTS_16_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB",Bein Sports 1 TH
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
