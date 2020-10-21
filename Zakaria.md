@@ -1016,10 +1016,10 @@ http://103.47.132.165/PLTV/88888888/224/3221227339/2.m3u8
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",CI
 http://103.47.132.165/PLTV/88888888/224/3221227341/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",Discovery ID
-http://riyancoday.xyz/get-link.m3u8?shinta=@RiyanCoday&cdy=disco
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",Discovery 
 
-#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",Discovery
+
+#EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",Discovery ID
 http://103.47.132.165/PLTV/88888888/224/3221227169/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",Nat ID
