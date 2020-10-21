@@ -1020,16 +1020,16 @@ http://103.47.132.165/PLTV/88888888/224/3221227341/2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",Discovery ID
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=d78acd9cad41bf3b3a0aaa3b4b106c4efad6f4e614a212e80c67249a666d2b09
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=d78acd9cad41bf3b3a0aaa3b4b106c4efa6f4e614a212e80c67249a666d2b09
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",Nat ID
  http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=f91c676cbee8fc9aa708334fcf26d981fad6f4e614a212e80c67249a666d2b09
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",National Geographic People ID
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=d41f2ddc7d689c014ccbe5a65d05578afad6f4e614a212e80c67249a666d2b09
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=d41f2ddc7d689014ccbe5a65d05578afad6f4e614a212e80c67249a666d2b09
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",Nat Geo Wild ID
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=757a717ee2ade661c665276734c83b16fad6f4e614a212e80c67249a666d2b09
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=757a717ee2ade661c66527734c83b16fad6f4e614a212e80c67249a666d2b09
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",National Geographic People
 http://103.47.132.165/PLTV/88888888/224/3221227127/3.m3u8
@@ -1169,13 +1169,13 @@ https://cdnmdc1.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng
 https://cdnmdc1.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion TV 1 vidio.com
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=f72f78a365657d56853b6867fb37dc3c92a0b898598ef9416ca40dd3efbbfae1
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=f72f78a365657d56853b6867fb37c3c92a0b898598ef9416ca40dd3efbbfae1
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion TV 2 vidio.com
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=1458c6647dbf7cca56dff7bfe0576ebb92a0b898598ef9416ca40dd3efbbfae1
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=1458c6647dbf7cca56dff7bfe0576ebb92a0b89898ef9416ca40dd3efbbfae1
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",Champion TV 3 vidio.com
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=af4f00ca48321fb026865c5a1772dafd92a0b898598ef9416ca40dd3efbbfae1
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=af4f00ca48321fb026865c5a1772dafd92a0b8998ef9416ca40dd3efbbfae1
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="SPORTS",useesport 1
 https://cdnmdc1.useetv.com/dass/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
@@ -1471,7 +1471,7 @@ https://tx.flv.nimo.tv/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_hig
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MUSIC",Prambors
-http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=0990fc3dbc01e3b6026e8a1860bd3d31fad6f4e614a212e80c67249a666d2b09
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=0990fc3dbc01e3b6026e8a18bd3d31fad6f4e614a212e80c67249a666d2b09
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="MUSIC",T Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
