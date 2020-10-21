@@ -1020,7 +1020,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227341/2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",Discovery ID
-http://103.47.132.165/PLTV/88888888/224/3221227169/3.m3u8
+http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=d78acd9cad41bf3b3a0aaa3b4b106c4efad6f4e614a212e80c67249a666d2b09
 
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",Nat ID
  http://riyancoday.xyz/get-link.m3u8?shinta=RiyanCoday.XYZ&cdy=f91c676cbee8fc9aa708334fcf26d981fad6f4e614a212e80c67249a666d2b09
@@ -1830,5 +1830,5 @@ http://45.160.223.214:8100/live/todos/todos/510.m3u8
 http://45.160.223.214:8100/live/todos/todos/511.m3u8
 
 
-rr
+
 
