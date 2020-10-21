@@ -1089,8 +1089,6 @@ http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6856
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 11 FHD
 http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6858
 
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 11 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6858
 
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 12 FHD
 http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6859
