@@ -1055,38 +1055,6 @@ http://103.47.132.165/PLTV/88888888/224/3221227173/2.m3u8
 #EXTINF:-1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="KNOWLEDGE",AFN
 http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
 
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 1 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6854
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 2 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6860
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 3 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6862
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 4 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6864
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 5 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6866
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 6 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6868
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 7 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6870
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 8 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6872
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 9 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6874
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 10 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6856
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 11 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6858
 
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 1 FHD
 http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6854
@@ -1120,174 +1088,20 @@ http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6856
 
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 11 FHD
 http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6858
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 1 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6854
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 2 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6860
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 3 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6862
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 4 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6864
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 5 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6866
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 6 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6868
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 7 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6870
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 8 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6872
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 9 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6874
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 10 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6856
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 11 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6858
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 1 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6854
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 2 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6860
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 3 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6862
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 4 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6864
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 5 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6866
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 6 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6868
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 7 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6870
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 8 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6872
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 9 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6874
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 10 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6856
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 11 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6858
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 1 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6854
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 2 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6860
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 3 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6862
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 4 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6864
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 5 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6866
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 6 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6868
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 7 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6870
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 8 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6872
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 9 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6874
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 10 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6856
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 11 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6858
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 1 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6854
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 2 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6860
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 3 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6862
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 4 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6864
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 5 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6866
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 6 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6868
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 7 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6870
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 8 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6872
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 9 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6874
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 10 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6856
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 11 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6858
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 1 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6854
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 2 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6860
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 3 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6862
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 4 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6864
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 5 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6866
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 6 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6868
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 7 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6870
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 8 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6872
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 9 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6874
-
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 10 FHD
-http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6856
 
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 11 FHD
 http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6858
 
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 12 FHD
 http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6859
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 1 HD HEVC
+http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6855
+
+#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 2 HD HEVC
+http://x.tvkos.com:8080/SOMA/mcp5oDcOEO/6861
+
+
 
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Bein ARAB", BEIN SPORTS 1 HD
 https://m3u-editor.com/serve/989e3c20-1210-11eb-9b51-c38ad1fef8fa/120972631
